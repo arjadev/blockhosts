@@ -4,7 +4,7 @@ import './App.css';
 function App() {
 
   const wertConfig = {
-    partner_id: '01H1KB0PWMXFTWRJWAWHJCDCCY',
+    partner_id: '',
     // click_id: uuidv4(), // unique id of purhase in your system
     origin: 'https://widget.wert.io',
     width: 400,
